@@ -157,8 +157,8 @@ void printVersion()
     QTextStream cout(stdout, QIODevice::WriteOnly);
 
     cout << endl;
-    cout << APPNAME << " " << "version " << APPVERSION << endl;
-    cout << "This program is licensed under the terms of the ";
+    cout << APPNAME << " " << "version Fork " << APPVERSION << endl;
+    cout << "This program is licensed under the terms of the FORK TEST ";
     cout << "Apache 2.0 license." << endl;
     cout << "Copyright (c) Heikki Junnila (hjunnila@users.sf.net)" << endl;
     cout << "Copyright (c) Massimo Callegari (massimocallegari@yahoo.it)" << endl;
